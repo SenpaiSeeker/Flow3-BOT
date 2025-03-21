@@ -131,7 +131,7 @@ class Flow3:
                 "message":message,
                 "walletAddress":address,
                 "signature":signature_base58,
-                "referralCode":"6AYewrGk3"
+                "referralCode":"cuSgiVbRj"
             }
             
             return data
